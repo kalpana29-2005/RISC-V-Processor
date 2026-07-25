@@ -1,5 +1,5 @@
 /*
-ALU module, which takes two operands of size 32-bits each and a 4-bit ALU_control as input.
+ALU module, which takes  two operands of size 32-bits each and a 4-bit ALU_control as input.
 Operation is performed on the basis of ALU_control value and output is 32-bit ALU_result. 
 If the ALU_result is zero, a ZERO FLAG is set.
 */
