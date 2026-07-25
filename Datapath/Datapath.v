@@ -30,7 +30,7 @@ module DATAPATH(
     reset
     );
 
-    // Instanting ALU
+    // Instanting  ALU
     ALU alu_module(read_data1, read_data2, alu_control, write_data, zero_flag);
 	 
 endmodule
