@@ -1,5 +1,5 @@
 /* 
-Instruction memory takes in two inputs: A 32-bit Program counter and a 1-bit reset. 
+Instruction memory takes in two inputs: A 3 2-bit Program counter and a 1-bit reset. 
 The memory is initialized when reset is 1.
 When reset is set to 0, Based on the value of PC, corresponding 32-bit Instruction code is output
 */
