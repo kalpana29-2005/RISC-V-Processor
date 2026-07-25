@@ -1,6 +1,6 @@
 /*
 A register file can read two registers and write in to one register. 
-The RISC V register file contains total of 32 registers each of size 32-bit. 
+The RISC V register file contains total of 32 registers eac h of size 32-bit. 
 Hence 5-bits are used to specify the register numbers that are to be read or written. 
 */
 
