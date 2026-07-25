@@ -1,5 +1,5 @@
 `include "PROCESSOR.v"
-
+ 
 module stimulus ();
     
     reg clock;
