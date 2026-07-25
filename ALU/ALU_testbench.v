@@ -1,4 +1,4 @@
-`include "ALU.v"
+` include "ALU.v"
 
 module stimulus ();
     reg [31:0] A,B;
