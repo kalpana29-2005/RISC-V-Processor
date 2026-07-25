@@ -5,7 +5,7 @@ $version
 	Icarus Verilog
 $end
 $timescale
-	1ps
+	1ps 
 $end
 $scope module stimulus $end
 $var wire 32 ! OUTPUT [31:0] $end
