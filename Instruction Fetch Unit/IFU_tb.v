@@ -1,7 +1,7 @@
 `include "IFU.v"
 module stimulus(
 
-);
+ );
     reg CLOCK, RESET;
     wire [31:0] OUTPUT;
 
