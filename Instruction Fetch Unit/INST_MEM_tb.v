@@ -5,7 +5,7 @@ module stimulus ();
     reg RESET;
     wire [31:0]INST_CODE;
 
-    // Instantiating instruction memory module
+    // Instantiating i nstruction memory module
     INST_MEM INST_MEM_module(PC,RESET,INST_CODE);
 
     // Setting up waveform
